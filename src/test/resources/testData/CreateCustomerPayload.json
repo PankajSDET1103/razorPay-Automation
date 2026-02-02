@@ -1,0 +1,11 @@
+{
+  "name":"Pankaj",
+  "email":"pank@example.com",
+  "contact":"9123456780",
+  "fail_existing":"1",
+  "gstin":"12ABCDE2356F7GH",
+  "notes":{
+    "notes_key_1":"Tea, Earl Grey, Hot",
+    "notes_key_2":"Tea, Earl Grey… decaf."
+  }
+}

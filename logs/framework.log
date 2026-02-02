@@ -1,0 +1,440 @@
+2026-01-26 17:34:20 INFO  LoggingFilters - REQUEST METHOD : POST
+2026-01-26 17:34:20 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers
+2026-01-26 17:34:20 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-26 17:34:21 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-26 17:34:21 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8V687Sc9eVkfW",
+    "entity": "customer",
+    "name": "User_e67ae4",
+    "email": "usera3818f@test.com",
+    "contact": "9792751064",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769429062
+}
+2026-01-26 17:34:22 INFO  LoggingFilters - REQUEST METHOD : GET
+2026-01-26 17:34:22 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers/cust_S8V687Sc9eVkfW
+2026-01-26 17:34:22 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-26 17:34:22 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-26 17:34:22 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8V687Sc9eVkfW",
+    "entity": "customer",
+    "name": "User_e67ae4",
+    "email": "usera3818f@test.com",
+    "contact": "9792751064",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769429062
+}
+2026-01-26 18:10:45 INFO  LoggingFilters - REQUEST METHOD : POST
+2026-01-26 18:10:45 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers
+2026-01-26 18:10:45 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-26 18:10:46 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-26 18:10:46 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8VibLVRlub1bq",
+    "entity": "customer",
+    "name": "User_e15417",
+    "email": "user6fd963@test.com",
+    "contact": "9956423064",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769431247
+}
+2026-01-26 18:10:47 INFO  LoggingFilters - REQUEST METHOD : GET
+2026-01-26 18:10:47 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers/cust_S8VibLVRlub1bq
+2026-01-26 18:10:47 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-26 18:10:47 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-26 18:10:47 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8VibLVRlub1bq",
+    "entity": "customer",
+    "name": "User_e15417",
+    "email": "user6fd963@test.com",
+    "contact": "9956423064",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769431247
+}
+2026-01-26 18:10:47 INFO  LoggingFilters - REQUEST METHOD : PUT
+2026-01-26 18:10:47 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers/cust_S8VibLVRlub1bq
+2026-01-26 18:10:47 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-26 18:10:47 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-26 18:10:47 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8VibLVRlub1bq",
+    "entity": "customer",
+    "name": "User_e15417",
+    "email": "user6fd963@test.com",
+    "contact": "9956423064",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769431247
+}
+2026-01-26 18:13:39 INFO  LoggingFilters - REQUEST METHOD : POST
+2026-01-26 18:13:39 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers
+2026-01-26 18:13:39 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-26 18:13:40 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-26 18:13:40 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8Vlf5yjeGYPcC",
+    "entity": "customer",
+    "name": "User_e9317d",
+    "email": "user482195@test.com",
+    "contact": "9136747065",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769431421
+}
+2026-01-26 18:13:41 INFO  LoggingFilters - REQUEST METHOD : GET
+2026-01-26 18:13:41 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers/cust_S8Vlf5yjeGYPcC
+2026-01-26 18:13:41 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-26 18:13:41 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-26 18:13:41 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8Vlf5yjeGYPcC",
+    "entity": "customer",
+    "name": "User_e9317d",
+    "email": "user482195@test.com",
+    "contact": "9136747065",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769431421
+}
+2026-01-26 18:13:41 INFO  LoggingFilters - REQUEST METHOD : PUT
+2026-01-26 18:13:41 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers/cust_S8Vlf5yjeGYPcC
+2026-01-26 18:13:41 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-26 18:13:41 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-26 18:13:41 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8Vlf5yjeGYPcC",
+    "entity": "customer",
+    "name": "User_4bc57f",
+    "email": "user2f7b5c@test.com",
+    "contact": "9224100157",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769431421
+}
+2026-01-27 18:11:42 INFO  LoggingFilters - REQUEST METHOD : POST
+2026-01-27 18:11:42 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers
+2026-01-27 18:11:42 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-27 18:11:43 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-27 18:11:43 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8uGi2uWqNFLf9",
+    "entity": "customer",
+    "name": "User_a2707d",
+    "email": "user1af1b1@test.com",
+    "contact": "9500005135",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769517703
+}
+2026-01-27 18:11:43 INFO  LoggingFilters - REQUEST METHOD : GET
+2026-01-27 18:11:43 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers/cust_S8uGi2uWqNFLf9
+2026-01-27 18:11:43 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-27 18:11:44 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-27 18:11:44 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8uGi2uWqNFLf9",
+    "entity": "customer",
+    "name": "User_a2707d",
+    "email": "user1af1b1@test.com",
+    "contact": "9500005135",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769517703
+}
+2026-01-27 18:11:44 INFO  LoggingFilters - REQUEST METHOD : PUT
+2026-01-27 18:11:44 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers/cust_S8uGi2uWqNFLf9
+2026-01-27 18:11:44 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-27 18:11:44 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-27 18:11:44 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8uGi2uWqNFLf9",
+    "entity": "customer",
+    "name": "User_97c9aa",
+    "email": "user66dd72@test.com",
+    "contact": "9304351999",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769517703
+}
+2026-01-27 20:34:06 INFO  LoggingFilters - REQUEST METHOD : POST
+2026-01-27 20:34:06 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers
+2026-01-27 20:34:06 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-27 20:34:07 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-27 20:34:08 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8wh8kfX0GpDLp",
+    "entity": "customer",
+    "name": "User_7f509e",
+    "email": "user9fb987@test.com",
+    "contact": "9452668204",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769526248
+}
+2026-01-27 20:34:08 INFO  LoggingFilters - REQUEST METHOD : GET
+2026-01-27 20:34:08 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers/cust_S8wh8kfX0GpDLp
+2026-01-27 20:34:08 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-27 20:34:08 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-27 20:34:08 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8wh8kfX0GpDLp",
+    "entity": "customer",
+    "name": "User_7f509e",
+    "email": "user9fb987@test.com",
+    "contact": "9452668204",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769526248
+}
+2026-01-27 20:34:08 INFO  LoggingFilters - REQUEST METHOD : PUT
+2026-01-27 20:34:08 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers/cust_S8wh8kfX0GpDLp
+2026-01-27 20:34:08 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-01-27 20:34:09 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-01-27 20:34:09 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_S8wh8kfX0GpDLp",
+    "entity": "customer",
+    "name": "User_7c9cf7",
+    "email": "user0c5f35@test.com",
+    "contact": "9947046191",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1769526248
+}
+2026-02-02 11:29:04 INFO  LoggingFilters - REQUEST METHOD : POST
+2026-02-02 11:29:04 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers
+2026-02-02 11:29:04 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-02-02 11:29:05 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-02-02 11:29:05 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_SBAc7Nocei9qwv",
+    "entity": "customer",
+    "name": "User_dccf11",
+    "email": "useraa69aa@test.com",
+    "contact": "9423741643",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1770011945
+}
+2026-02-02 11:29:06 INFO  LoggingFilters - REQUEST METHOD : GET
+2026-02-02 11:29:06 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers/cust_SBAc7Nocei9qwv
+2026-02-02 11:29:06 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-02-02 11:29:06 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-02-02 11:29:06 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_SBAc7Nocei9qwv",
+    "entity": "customer",
+    "name": "User_dccf11",
+    "email": "useraa69aa@test.com",
+    "contact": "9423741643",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1770011945
+}
+2026-02-02 11:29:06 INFO  LoggingFilters - REQUEST METHOD : PUT
+2026-02-02 11:29:06 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers/cust_SBAc7Nocei9qwv
+2026-02-02 11:29:06 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-02-02 11:29:06 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-02-02 11:29:06 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_SBAc7Nocei9qwv",
+    "entity": "customer",
+    "name": "User_fb1f85",
+    "email": "user45133c@test.com",
+    "contact": "9236515637",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey… decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1770011945
+}
+2026-02-02 11:29:21 INFO  LoggingFilters - REQUEST METHOD : POST
+2026-02-02 11:29:21 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers
+2026-02-02 11:29:21 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-02-02 11:29:22 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-02-02 11:29:22 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_SBAcPdzYODslso",
+    "entity": "customer",
+    "name": "User_ca0372",
+    "email": "usercf87f0@test.com",
+    "contact": "9915447059",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey� decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1770011962
+}
+2026-02-02 11:29:22 INFO  LoggingFilters - REQUEST METHOD : GET
+2026-02-02 11:29:22 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers/cust_SBAcPdzYODslso
+2026-02-02 11:29:22 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-02-02 11:29:22 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-02-02 11:29:22 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_SBAcPdzYODslso",
+    "entity": "customer",
+    "name": "User_ca0372",
+    "email": "usercf87f0@test.com",
+    "contact": "9915447059",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey� decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1770011962
+}
+2026-02-02 11:29:22 INFO  LoggingFilters - REQUEST METHOD : PUT
+2026-02-02 11:29:22 INFO  LoggingFilters - REQUEST URL    : https://api.razorpay.com/v1/customers/cust_SBAcPdzYODslso
+2026-02-02 11:29:22 INFO  LoggingFilters - REQUEST HEADERS: Authorization=Basic cnpwX3Rlc3RfUzZSSTNEbjFwQVp5QzI6TTN2a2pabjBZQTdvU1B6WXo4eWNwYXhk
+Accept=*/*
+Content-Type=application/json
+2026-02-02 11:29:23 INFO  LoggingFilters - RESPONSE STATUS  :  200
+2026-02-02 11:29:23 INFO  LoggingFilters - RESPONSE BODY  :  {
+    "id": "cust_SBAcPdzYODslso",
+    "entity": "customer",
+    "name": "User_771757",
+    "email": "user77ec50@test.com",
+    "contact": "9437011723",
+    "gstin": "12ABCDE2356F7GH",
+    "notes": {
+        "notes_key_1": "Tea, Earl Grey, Hot",
+        "notes_key_2": "Tea, Earl Grey� decaf."
+    },
+    "shipping_address": [
+        
+    ],
+    "created_at": 1770011962
+}
